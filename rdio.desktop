@@ -1,0 +1,6 @@
+# Place this in ~/.local/share/applications/rdio.desktop
+[Desktop Entry]
+Exec=google-chrome --app=http://rdio.com
+Type=Application
+Name=Rdio
+Icon=rdio
