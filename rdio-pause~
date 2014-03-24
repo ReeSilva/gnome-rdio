@@ -2,4 +2,4 @@
 xdotool key --window $(xdotool search --name .Rdio | head -1) space
 xdotool key --window $(xdotool search --name .Digitally | head -1) space
 xdotool key --window $(xdotool search --name .Grooveshark | head -1) space
-xdotool key --window $(xdotool search --name Spotify. | head -1) space
+xdotool key --window $(xdotool search --name .Spotify | head -1) space
