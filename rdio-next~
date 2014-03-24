@@ -1,4 +1,0 @@
-#!/bin/sh
-xdotool key --window $(xdotool search --name .Rdio | head -1) Right
-xdotool key --window $(xdotool search --name .Grooveshark | head -1) ctrl+Right
-xdotool key --window $(xdotool search --name .Spotify | head -1) ctrl+Right
